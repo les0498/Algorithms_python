@@ -1,0 +1,5 @@
+num = int(input()) 
+data = list(map(int, input().split()))
+find_num = int(input()) 
+
+print(data.count(find_num))
