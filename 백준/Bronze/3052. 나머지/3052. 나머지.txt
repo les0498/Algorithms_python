@@ -1,0 +1,8 @@
+value = []
+
+for i in range(10):
+  A = int(input())
+  value.append(A % 42)
+
+value = set(value)
+print(len(value))
