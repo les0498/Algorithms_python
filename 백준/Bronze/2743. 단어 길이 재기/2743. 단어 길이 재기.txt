@@ -1,0 +1,3 @@
+M = str(input())
+
+print(len(M))
