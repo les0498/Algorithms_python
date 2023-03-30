@@ -1,0 +1,9 @@
+N = int(input())
+sum = 0
+
+num = str(input())
+
+for i in range(0,len(num)): 
+  sum += int(num[i]) 
+
+print(sum)
