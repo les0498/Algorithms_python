@@ -1,0 +1,7 @@
+T = int(input())
+
+for i in range(T): 
+  num, S = input().split()
+  for j in S:
+    print(j*int(num), end="")
+  print()
