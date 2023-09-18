@@ -11,27 +11,3 @@ median = sorted(numbers)[2]
 
 print(average)
 print(median)
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
